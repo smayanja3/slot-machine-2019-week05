@@ -45,3 +45,5 @@ This project gave me more practice turning JavaScript logic into an interactive 
 One of my biggest challenges was understanding **scope** and keeping track of where variables and functions could be accessed, especially as the project grew and more conditional logic was added.
 
 It also helped me see where I could simplify my code instead of using longer conditional statements.
+
+Thanks for checking out my project! 🎰✨
