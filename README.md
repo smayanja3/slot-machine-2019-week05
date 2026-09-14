@@ -1,5 +1,8 @@
 # 🎰 Slot Machine
 
+A fun an interactive slot machine built
+![Slot Machine Project Screenshot](slot-machine-screenshot.png)
+
 This project was created using **HTML, CSS, and JavaScript** and is designed to be responsive across different screen sizes. Players can place a minimum or maximum bet, spin three reels, and watch their total update based on the game results.
 
 ## ✨ Features
